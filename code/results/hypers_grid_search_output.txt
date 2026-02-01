@@ -1,0 +1,87 @@
+(base) thinksky@Haotings-MacBook-Pro Assignment 2 % /Users/thinksky/anaconda3/bin/python "/Users/thinksky/Desktop/COMP4660/Assignment 2/hypers_grid_search.py"
+The top 10 hyperparameter combinations (chromosomes) and their MSE
+000111010101    2.1389299273490905      {'max_hidden_neurons': 1, 'P': 20, 'D': 0.0005, 'lrs': [1.0, 0.025, 0.005]}
+000011010111    2.1501518368721007      {'max_hidden_neurons': 1, 'P': 0.5, 'D': 0.0005, 'lrs': [2.0, 0.05, 0.01]}
+000110101111    2.157095471024513       {'max_hidden_neurons': 1, 'P': 15, 'D': 0.01, 'lrs': [2.0, 0.05, 0.01]}
+000100101001    2.1630828052759172      {'max_hidden_neurons': 1, 'P': 1, 'D': 0.01, 'lrs': [0.06, 0.0014999999999999998, 0.0003]}
+000001100111    2.171607992053032       {'max_hidden_neurons': 1, 'P': 0.05, 'D': 0.005, 'lrs': [2.0, 0.05, 0.01]}
+000010011110    2.1722268730401995      {'max_hidden_neurons': 1, 'P': 0.1, 'D': 0.001, 'lrs': [1.4000000000000001, 0.035, 0.007]}
+000011100101    2.1779274702072144      {'max_hidden_neurons': 1, 'P': 0.5, 'D': 0.005, 'lrs': [1.0, 0.025, 0.005]}
+000001010111    2.181641271710396       {'max_hidden_neurons': 1, 'P': 0.05, 'D': 0.0005, 'lrs': [2.0, 0.05, 0.01]}
+000100100010    2.18173748254776        {'max_hidden_neurons': 1, 'P': 1, 'D': 0.005, 'lrs': [0.1, 0.0025, 0.0005]}
+000011000010    2.1826969593763352      {'max_hidden_neurons': 1, 'P': 0.5, 'D': 0, 'lrs': [0.1, 0.0025, 0.0005]}
+
+Best Chromosome: 000111010101
+Best Hyperparameters: {'max_hidden_neurons': 1, 'P': 20, 'D': 0.0005, 'lrs': [1.0, 0.025, 0.005]}
+
+Model is trained 200 times
+with each run has different test-training split and initialised weights
+Mean: 2.113643730878832551    MAE: 1.5514
+Median: 2.0108108520507812
+Standard Deviation: 0.5419056607793907
+
+Mean: 1.1689184755086899
+Median: 1.152128279209137
+Standard Deviation: 0.1632699455945524
+Class 1
+Number of runs that contain MSE/MAE for this class: 37
+MSE: average over all 37 runs: 15.3220
+MSE: median over all 37 runs: 15.0260
+MSE: std over all 37 runs: 3.9319
+L1E: average of MAE over all 37 runs: 3.8791
+L1E: median over all 37 runs: 3.8763
+L1E std over all 37 runs: 0.5082
+
+Class 2
+Number of runs that contain MSE/MAE for this class: 163
+MSE: average over all 163 runs: 7.2862
+MSE: median over all 163 runs: 6.9313
+MSE: std over all 163 runs: 2.7673
+L1E: average of MAE over all 163 runs: 2.6238
+L1E: median over all 163 runs: 2.6172
+L1E std over all 163 runs: 0.5222
+
+Class 3
+Number of runs that contain MSE/MAE for this class: 198
+MSE: average over all 198 runs: 3.6610
+MSE: median over all 198 runs: 3.4920
+MSE: std over all 198 runs: 1.4490
+L1E: average of MAE over all 198 runs: 1.7787
+L1E: median over all 198 runs: 1.7695
+L1E std over all 198 runs: 0.3966
+
+Class 4
+Number of runs that contain MSE/MAE for this class: 198
+MSE: average over all 198 runs: 0.9961
+MSE: median over all 198 runs: 0.9529
+MSE: std over all 198 runs: 0.5554
+L1E: average of MAE over all 198 runs: 0.8443
+L1E: median over all 198 runs: 0.8618
+L1E std over all 198 runs: 0.2879
+
+Class 5
+Number of runs that contain MSE/MAE for this class: 200
+MSE: average over all 200 runs: 0.3866
+MSE: median over all 200 runs: 0.3445
+MSE: std over all 200 runs: 0.2319
+L1E: average of MAE over all 200 runs: 0.4811
+L1E: median over all 200 runs: 0.4661
+L1E std over all 200 runs: 0.1631
+
+Class 6
+Number of runs that contain MSE/MAE for this class: 200
+MSE: average over all 200 runs: 1.5663
+MSE: median over all 200 runs: 1.4946
+MSE: std over all 200 runs: 0.5065
+L1E: average of MAE over all 200 runs: 1.1287
+L1E: median over all 200 runs: 1.1235
+L1E std over all 200 runs: 0.2083
+
+Class 7
+Number of runs that contain MSE/MAE for this class: 187
+MSE: average over all 187 runs: 4.5369
+MSE: median over all 187 runs: 4.1858
+MSE: std over all 187 runs: 2.1552
+L1E: average of MAE over all 187 runs: 2.0217
+L1E: median over all 187 runs: 1.9963
+L1E std over all 187 runs: 0.4770
