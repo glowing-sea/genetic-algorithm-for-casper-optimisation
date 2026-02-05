@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If any links or files require a password, please use my **UTAS Application Number**.
+
 ## Abstract
 
 **Title**: Application of Casper Neural Network in Predicting User Satisfaction with Web Searches Based on Task-Related and User Behavioural Features & Evaluating the Efficiency of Genetic Algorithms in Hyperparameter Tuning and Feature Selection for Casper
@@ -12,13 +15,13 @@
 
 **Course Outline**:
 
-- Each student in this course was assigned a unique combination of an artificial neural network model or technique and a dataset. Following that, they were required to identify a specific research topic and undertake the research independently. In the next stage, students were required to extend the research by integrating either Deep Learning or Evolutionary Algorithm. Work was assessed by both traditional marking and double-blind peer review.
+- Each student in this course was assigned a unique combination of an artificial neural network model or technique and a dataset. Following that, they were required to identify a specific research topic and undertake the research independently. In the next stage, students were required to extend the research by integrating either Deep Learning or Evolutionary Algorithm. Work was assessed by both traditional marking and double-blind peer review. ([reference](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo))
 
 **Course Final Mark**: 85 / 100
 
 **Project Weight**: [50%](https://programsandcourses.anu.edu.au/2023/course/COMP4660/Second%20Semester/7520) of COMP4660
 
-**Project Mark**: 88 / 100
+**Project Mark**: [88](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo) / 100
 
 **Deliverables**: [paper (application)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-application.pdf), [paper (genetic algorithm extension)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-genetic-algorithm.pdf), code
 
