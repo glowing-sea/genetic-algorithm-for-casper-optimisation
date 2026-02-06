@@ -23,7 +23,7 @@
 
 **Project Mark**: [88](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo) / 100
 
-**Deliverables**: [paper (application)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-application.pdf), [paper (genetic algorithm extension)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-genetic-algorithm.pdf), code
+**Deliverables**: [paper (genetic algorithm extension)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-genetic-algorithm.pdf), [paper (application)](https://github.com/glowing-sea/genetic-algorithm-for-casper-optimisation/blob/main/deliverables/paper-application.pdf), code
 
 **Description**:
 
